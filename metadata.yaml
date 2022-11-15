@@ -1,0 +1,30 @@
+_repo: Sketchbook-of-the-Philadelphia-Boston-Face-Brick-Co_69203
+_version: 0.0.1
+alternative_title: Sketchbook of the Philadelphia and Boston Face Brick Company
+creator:
+  author:
+    agent_name: Philadelphia & Boston Face Brick Co.
+    gutenberg_agent_id: '55127'
+    url: http://www.gutenberg.org/2009/agents/55127
+description: ''
+gutenberg_issued: '2022-10-22'
+identifiers:
+  gutenberg: '69203'
+language: en
+pgterms:marc905: 20140716172825annonymous
+pgterms:marc906: '1904'
+pgterms:marc907: USA
+production_note: Tom Cosmas compiled from materials provided at The Internet Archive
+  and placed in the Public Domain.
+publication_note: 'USA: Philadelphia & Boston Face Brick Co.,1904.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fireplaces'
+- !lcsh 'Architecture, Domestic'
+- !lcsh 'Bricks -- Catalogs'
+- !lcc 'TH'
+- GITenberg
+title: Sketchbook of the Philadelphia & Boston Face Brick Co.
+url: http://www.gutenberg.org/ebooks/69203
