@@ -1,12 +1,17 @@
 _repo: Sketchbook-of-the-Philadelphia-Boston-Face-Brick-Co_69203
 _version: 0.1.0
 alternative_title: Sketchbook of the Philadelphia and Boston Face Brick Company
+covers:
+- cover_type: archival
+  image_path: 69203-h/images/cover.jpg
 creator:
   author:
     agent_name: Philadelphia & Boston Face Brick Co.
     gutenberg_agent_id: '55127'
     url: http://www.gutenberg.org/2009/agents/55127
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69203#Sketchbook-of-the-Philadelphia-Boston-Face-Brick-Co
 gutenberg_issued: '2022-10-22'
 identifiers:
   gutenberg: '69203'
